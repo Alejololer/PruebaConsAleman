@@ -17,7 +17,19 @@
    * Host: localhost
    * Puerto: 3306
 
-2. Crear las bases de datos necesarias en MySQL:
+2. Crear las bases de datos necesarias en MySQL, las tablas se crearán de forma automática gracias a sqlmodel:
 
    * PruebaII
    * PruebaII_test
+
+## Pruebas realizadas con Bruno (Similar a Postman)
+
+**Actualizar_stock**
+![Actualizar_Stock](image.png)
+
+**Agregar_producto**
+![Agregar_producto](image-1.png)
+
+**Consultar_producto**
+![Consultar_Producto_1](image-2.png)
+![Consultar_producto_2](image-3.png)
