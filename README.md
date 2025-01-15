@@ -7,7 +7,7 @@
 * Python 3.10 o superior
 * MySQL Server
 * pip (gestor de paquetes de Python)
-* Ejecutar pip install -r requirements.txt
+* Ejecutar `pip install -r requirements.txt`
 
 ## Configuración de Base de Datos
 
@@ -21,6 +21,10 @@
 
    * PruebaII
    * PruebaII_test
+
+## Ejecución del servidor
+
+Para ejecutar el servidor solo hace falta ejecutar el comando `uvicorn main:app` sobre el directorio del proyecto
 
 ## Pruebas realizadas con Bruno (Similar a Postman)
 
