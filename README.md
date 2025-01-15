@@ -7,6 +7,7 @@
 * Python 3.10 o superior
 * MySQL Server
 * pip (gestor de paquetes de Python)
+* Ejecutar pip install -r requirements.txt
 
 ## Configuración de Base de Datos
 
